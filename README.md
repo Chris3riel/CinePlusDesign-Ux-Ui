@@ -1,5 +1,5 @@
 # CinePlus
-
+![alt text](image.png)
 ## Descripción
 CinePlus es un catálogo de películas en línea que ofrece una experiencia de usuario intuitiva y atractiva. La interfaz está diseñada para facilitar la navegación y la búsqueda de contenido, permitiendo a los usuarios disfrutar de sus películas y series favoritas de manera sencilla.
 
